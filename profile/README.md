@@ -2,7 +2,8 @@
 
 뮤룸 스튜디오 플랫폼입니다.
 
-![Muroom Studio Banner](https://github.com/user-attachments/assets/e9f0e668-6cd3-4ea7-9943-aaa7e5eb4f88)
+![Muroom Studio Banner](https://github.com/user-attachments/assets/561cca9f-1f6a-4672-8f72-0ffa0bce43be)
+
 
 ### Settings
 <b>Language</b> &nbsp;&nbsp;&nbsp; Java 21<br/>
